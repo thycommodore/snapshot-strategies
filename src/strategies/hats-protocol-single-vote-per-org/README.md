@@ -1,4 +1,4 @@
-# hsts-protocol-single-vote-per-org
+# hats-protocol-single-vote-per-org
 
 A strategy to get a single voting power based on checking to see if the addresses own at least one hat within a tree.
 
